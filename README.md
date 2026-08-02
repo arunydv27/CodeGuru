@@ -91,7 +91,7 @@ Analytics dashboard — track code quality trends, common bug patterns, and prod
 Voice/chat-based interaction — conversational interface for hands-free coding assistance
 Offline/self-hosted mode — for organizations with strict data-privacy requirements
 
-Conclusion:
+Conclusion
 CodeGuru demonstrates how multi-agent AI architectures can be applied to real-world software engineering workflows — combining generative AI with traditional static analysis techniques to assist developers across the coding lifecycle. While the current implementation is suited for development and academic use, the modular agent-based design leaves clear room for scaling into a production-grade developer tool, as outlined in the Future Scope section above.
 
  Contributing :
