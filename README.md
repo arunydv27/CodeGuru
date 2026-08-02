@@ -92,4 +92,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-No license specified yet. Consider adding one (e.g., MIT, Apache 2.0) so others know how they can use this project.
+No license specified yet.
